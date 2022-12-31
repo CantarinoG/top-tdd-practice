@@ -1,0 +1,22 @@
+{
+  "name": "top-tdd-practice",
+  "version": "1.0.0",
+  "description": "Project from www.theodinproject.com. Jest practices based on test driven development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CantarinoG/top-tdd-practice.git"
+  },
+  "author": "CantarinoG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CantarinoG/top-tdd-practice/issues"
+  },
+  "homepage": "https://github.com/CantarinoG/top-tdd-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
